@@ -1,0 +1,13 @@
+image {
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+#div1 {
+    background-color: lightblue;
+    float: left;
+}
+#div2 {
+    background-color: lightgreen;
+    clear: left;
+}

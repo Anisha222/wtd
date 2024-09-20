@@ -1,0 +1,21 @@
+body {
+    background-color: #ddd;
+}
+.header {
+    height: 40px;
+}
+.content {
+    background-color:lightblue ;
+    min-height: 600px;
+}
+.sidebar {
+    overflow: scroll;
+}
+.main-content {
+    background-color:red;
+    min-height: #ddd;
+    border: 1px solid #eee;
+}
+.footer {
+    height: 40px;
+}
