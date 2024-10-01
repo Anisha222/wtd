@@ -1,0 +1,1 @@
+document.getElementById("p2"),innerHTML="This is a external file"
